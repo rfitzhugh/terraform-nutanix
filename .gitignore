@@ -1,3 +1,4 @@
 
 deploy-vm/.terraform/plugins/darwin_amd64/lock.json
 deploy-vm/.terraform/plugins/darwin_amd64/terraform-provider-nutanix_v1.0.2_x4
+.DS_Store
